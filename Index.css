@@ -376,3 +376,16 @@ input[type="email"] {
   font-weight: lighter;
   margin-right: 0px;
 }
+
+.per {
+  margin-top: 100px;
+  width: 92%;
+}
+
+footer {
+  font-weight: lighter;
+  font-size: 12px;
+  margin-top: 30px;
+  margin-bottom: -120px;
+  text-align: center;
+}
