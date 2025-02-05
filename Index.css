@@ -258,7 +258,7 @@ input[type="email"] {
 }
 
 .third-div {
-  padding: 50px 150px;
+  padding: 150px 150px;
   font-family: sans-serif;
 }
 
@@ -314,4 +314,65 @@ input[type="email"] {
   font-size: 12px;
   margin-left: 62px;
   font-weight: lighter;
+}
+
+.fifth-div {
+  background-color: rgb(255, 208, 0);
+  width: 1440px;
+  margin-top: 250px;
+  margin-left: -150px;
+  padding: 150px 0px;
+}
+
+.fifth-in {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 65px;
+  font-weight: 550;
+}
+
+.sn {
+  height: 55px;
+  width: 180px;
+  margin-left: 500px;
+  margin-top: 40px;
+  margin-right: 20px;
+}
+
+.st {
+  height: 55px;
+  margin-top: 40px;
+}
+
+.sixth-div {
+  font-family: sans-serif;
+  margin-top: 200px;
+}
+
+.mb {
+  margin-top: -35px;
+  margin-bottom: 25px;
+}
+
+.first {
+  font-weight: lighter;
+  margin-right: 300px;
+  line-height: 30px;
+}
+
+.second-1 {
+  margin-bottom: 40px;
+  font-weight: lighter;
+  margin-right: 100px;
+}
+
+.second-2 {
+  margin-bottom: 40px;
+  font-weight: lighter;
+  margin-right: 100px;
+}
+
+.second-3 {
+  font-weight: lighter;
+  margin-right: 0px;
 }
