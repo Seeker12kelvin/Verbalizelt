@@ -132,6 +132,7 @@ input[type="email"] {
   scale: 0.3;
   position: relative;
   margin-right: 30px;
+  cursor: pointer;
 }
 
 .facess:hover {
@@ -139,6 +140,7 @@ input[type="email"] {
   scale: 0.3;
   position: relative;
   margin-right: 30px;
+  cursor: pointer;
 }
 
 .facese:hover {
@@ -146,6 +148,7 @@ input[type="email"] {
   scale: 0.3;
   position: relative;
   margin-right: 30px;
+  cursor: pointer;
 }
 
 .facest:hover {
@@ -153,12 +156,14 @@ input[type="email"] {
   scale: 0.3;
   position: relative;
   margin-right: 30px;
+  cursor: pointer;
 }
 
 .facesv:hover {
   animation: up-down 0.5s infinite;
   scale: 0.3;
   position: relative;
+  cursor: pointer;
 }
 
 @keyframes up-down {
